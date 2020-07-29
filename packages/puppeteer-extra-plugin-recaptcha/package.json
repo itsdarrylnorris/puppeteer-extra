@@ -64,7 +64,7 @@
   },
   "dependencies": {
     "debug": "^4.1.1",
-    "merge-deep": "^3.0.2",
+    "merge-deep": "git://github.com/itsdarrylnorris/merge-deep.git#updating/clone-deep",
     "puppeteer-extra-plugin": "^3.1.7"
   },
   "peerDependencies": {
